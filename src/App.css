@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid forestgreen;
+  border: 3px solid rgb(41, 34, 139);
   border-style: double;
   padding: 10px;
 }
