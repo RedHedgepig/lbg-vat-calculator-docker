@@ -5,7 +5,13 @@
 
 .colour-border{
   border: 3px solid forestgreen;
+  border-style: double;
   padding: 10px;
+}
+
+body{
+  background-color: burlywood;
+  font-family: cursive;
 }
 
 .header{
